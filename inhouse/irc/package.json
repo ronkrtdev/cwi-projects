@@ -1,0 +1,11 @@
+{
+  "name": "cwiirc",
+  "version": "0.0.1",
+  "description": "CWI Irc Bot INHouse Dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R.T. \"FelixFire619\" Ronk IV",
+  "license": "ISC"
+}

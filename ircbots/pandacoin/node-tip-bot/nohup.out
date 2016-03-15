@@ -1,0 +1,327 @@
+info: Exiting...
+
+/root/node-tip-bot/node_modules/js-yaml/lib/js-yaml/loader.js:164
+  throw generateError(state, message);
+        ^
+YAMLException: JS-YAML: bad indentation of a mapping entry at line 14, column 2:
+     -  '#Crypto-Co.in
+     ^
+info: Exiting...
+
+/root/node-tip-bot/node_modules/js-yaml/lib/js-yaml/loader.js:164
+  throw generateError(state, message);
+        ^
+YAMLException: JS-YAML: bad indentation of a mapping entry at line 14, column 2:
+     -  '#Crypto-Co.in
+     ^
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Connected to JSON RPC API. Current total balance is 0 PND
+[32minfo[39m:    Connected to sinisalo.freenode.net.
+[32minfo[39m:    jommy99 Fetched Joke Chuck Norris does not &quot;style&quot; his hair. It lays perfectly in place out of sheer terror.
+[32minfo[39m:    jommy99 Fetched Joke China lets Chuck Norris search for porn on Google.
+[32minfo[39m:    jommy99 Fetched Joke Chuck Norris does not eat. Food understands that the only safe haven from Chuck Norris' fists is inside his own body.
+[32minfo[39m:    Dj4x tried to tip rmd73 376, but has only 0
+[31merror[39m:   Error in !balance command code=ECONNREFUSED, errno=ECONNREFUSED, syscall=connect
+[31merror[39m:   Error in !balance command code=ECONNREFUSED, errno=ECONNREFUSED, syscall=connect
+[31merror[39m:   Error in !getblock command code=ECONNREFUSED, errno=ECONNREFUSED, syscall=connect
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[31merror[39m:   Could not connect to PandaCoin RPC API!  code=ECONNREFUSED, errno=ECONNREFUSED, syscall=connect
+[32minfo[39m:    Exiting...
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[31merror[39m:   Could not connect to PandaCoin RPC API!  code=ECONNREFUSED, errno=ECONNREFUSED, syscall=connect
+[32minfo[39m:    Exiting...
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Connected to hobana.freenode.net.
+[32minfo[39m:    Connected to asimov.freenode.net.
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Running webadmin on port 8080
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Connected to JSON RPC API. Current total balance is 1138519.55266819 PND
+[32minfo[39m:    Connected to orwell.freenode.net.
+[32minfo[39m:    Exiting...
+
+stream.js:94
+      throw er; // Unhandled stream error in pipe.
+            ^
+Error: CERT_UNTRUSTED
+    at SecurePair.<anonymous> (tls.js:1370:32)
+    at SecurePair.EventEmitter.emit (events.js:92:17)
+    at SecurePair.maybeInitFinished (tls.js:982:10)
+    at CleartextStream.read [as _read] (tls.js:469:13)
+    at CleartextStream.Readable.read (_stream_readable.js:320:10)
+    at EncryptedStream.write [as _write] (tls.js:366:25)
+    at doWrite (_stream_writable.js:223:10)
+    at writeOrBuffer (_stream_writable.js:213:5)
+    at EncryptedStream.Writable.write (_stream_writable.js:180:11)
+    at write (_stream_readable.js:583:24)
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Running webadmin on port 8080
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Connected to JSON RPC API. Current total balance is 1138519.55266819 PND
+[32minfo[39m:    Connected to cameron.freenode.net.
+[32minfo[39m:    Sythaeryn tipped Jommy99 110159.09671615PND
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as tomcat
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as admin
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as root
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[33mwarn[39m:    Failed webadmin login as 
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Running webadmin on port 8080
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Connected to JSON RPC API. Current total balance is 1138519.55266819 PND
+[32minfo[39m:    Connected to hitchcock.freenode.net.
+[32minfo[39m:    wnynotmakeit Fetched Joke We live in an expanding universe. All of it is trying to get away from Chuck Norris.
+[32minfo[39m:    Jommy99 tipped Sythaeryn 100000.2222PND
+[32minfo[39m:    Jommy99 tipped wnynotmakeit 300.2222PND
+[32minfo[39m:    wnynotmakeit Fetched Joke Chuck Norris cannot love, he can only not kill.
+null true
+[32minfo[39m:    Exiting...
+
+/root/node-tip-bot/node_modules/irc/lib/irc.js:748
+                        throw err;
+                              ^
+YAMLException: JS-YAML: bad indentation of a mapping entry at line 34, column 10:
+        admin:
+             ^
+info: Exiting...
+
+/root/node-tip-bot/node_modules/js-yaml/lib/js-yaml/loader.js:164
+  throw generateError(state, message);
+        ^
+YAMLException: JS-YAML: bad indentation of a mapping entry at line 34, column 10:
+        admin:
+             ^
+info: Exiting...
+
+/root/node-tip-bot/node_modules/js-yaml/lib/js-yaml/loader.js:164
+  throw generateError(state, message);
+        ^
+YAMLException: JS-YAML: bad indentation of a mapping entry at line 34, column 10:
+        admin:
+             ^
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Running webadmin on port 8080
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Exiting...
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Function.app.listen (/root/node-tip-bot/node_modules/express/lib/application.js:533:24)
+    at Object.module.exports.app (/root/node-tip-bot/lib/webadmin/app.js:85:9)
+    at Object.<anonymous> (/root/node-tip-bot/bin/tipbot.js:73:14)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Running webadmin on port 8080
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Exiting...
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Function.app.listen (/root/node-tip-bot/node_modules/express/lib/application.js:533:24)
+    at Object.module.exports.app (/root/node-tip-bot/lib/webadmin/app.js:85:9)
+    at Object.<anonymous> (/root/node-tip-bot/bin/tipbot.js:73:14)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Running webadmin on port 8080
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Exiting...
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Function.app.listen (/root/node-tip-bot/node_modules/express/lib/application.js:533:24)
+    at Object.module.exports.app (/root/node-tip-bot/lib/webadmin/app.js:85:9)
+    at Object.<anonymous> (/root/node-tip-bot/bin/tipbot.js:73:14)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
+[32minfo[39m:    Connecting to coind...
+[32minfo[39m:    Running webadmin on port 8080
+[32minfo[39m:    Connecting to the server...
+[32minfo[39m:    Added listener for urlget.js
+[32minfo[39m:    Exiting...
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:901:11)
+    at Server._listen2 (net.js:1039:14)
+    at listen (net.js:1061:10)
+    at Server.listen (net.js:1135:5)
+    at Function.app.listen (/root/node-tip-bot/node_modules/express/lib/application.js:533:24)
+    at Object.module.exports.app (/root/node-tip-bot/lib/webadmin/app.js:85:9)
+    at Object.<anonymous> (/root/node-tip-bot/bin/tipbot.js:73:14)
+    at Module._compile (module.js:456:26)
+    at Object.Module._extensions..js (module.js:474:10)
+    at Module.load (module.js:356:32)
