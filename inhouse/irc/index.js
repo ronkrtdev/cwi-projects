@@ -62,5 +62,9 @@ bot.addListener("message", function(from, channel, text, message) {
 // Say !rain X every hour
 setInterval(function() {
     bot.say(config.channels[0], "!rain 1");
-    bot.say(config.channels[1,2], "!rain 10");
+    setTimeout(myFunction, 5000);
+    bot.say(config.channels[1], "!rain 10");
+    setTimeout(myFunction, 5000);
+    bot.say(config.channels[2], "!rain 10");
+    
 }, oneHour);
